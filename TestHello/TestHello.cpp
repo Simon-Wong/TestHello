@@ -12,6 +12,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	std::cout<<"Hello 1!"<<endl;
 	std::cout<<"Hello 2!"<<endl;
 	std::cout<<"Hello 3!"<<endl;
+	std::cout<<"Hello 4!"<<endl;
 	return 0;
 }
 
